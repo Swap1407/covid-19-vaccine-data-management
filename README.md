@@ -101,9 +101,13 @@ Time Complexity of Singly Linked List:
 
 
 Operation	Best Case	Worst Case
+
 Get ()	O (1)	O(N)
+
 Insert ()	O (1)	O(N)
+
 Search ()	O (1)	O(N)
+
 Delete ()	O (1)	O(N)
 
 
